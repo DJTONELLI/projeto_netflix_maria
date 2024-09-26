@@ -1,5 +1,18 @@
-body{
-    background-color: darkgreen;
-    color: darkslategray;
-    }
-    
+body{ background-color: rgb(2, 139, 2);
+    color: #4f2f4c;
+    margin:0px;
+    font-family: "Open Sans", sans-serif;}
+header{border-bottom: solid 2px rgb(10,20,30);
+    padding: 20px;
+    font-size: 35px;
+    color: rgb(224, 12, 12);}
+
+
+.chamada{background-color: chartreuse;
+         padding-bottom: 80px;
+         padding-top: 80px;}
+
+
+
+
+
